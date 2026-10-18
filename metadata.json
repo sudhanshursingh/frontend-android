@@ -1,0 +1,6 @@
+{
+  "name": "TheLokals B2B Wholesale",
+  "description": "Direct Indian Mills & Factory Escrow B2B Sourcing Marketplace with RFQs, Quotes, Live QC Dossiers, and Milestone Payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
